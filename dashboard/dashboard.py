@@ -31,7 +31,7 @@ with st.sidebar:
     with col1:
         st.write(' ')
     with col2:
-        st.image("logo.png"
+        st.image("dashboard/logo.png"
                  , width=100)
     with col3:
         st.write(' ')
