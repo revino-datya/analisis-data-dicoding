@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 numpy
 pandas
 matplotlib
 scipy
 streamlit
+=======
+numpy
+pandas
+matplotlib
+scipy
+streamlit
+>>>>>>> e56817bfdc2d59c7bdb91a8545f3525193793e8e
 seaborn
